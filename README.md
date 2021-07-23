@@ -1,3 +1,3 @@
-# HTML and CSS Project 2: A Basic HTML and CSS Website
+# HTML and CSS Project 2: A Basic Product Page
 
-A basic website coded with HTML and CSS.
+A basic product page coded with HTML and CSS.
